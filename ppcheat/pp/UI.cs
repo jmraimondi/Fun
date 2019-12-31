@@ -136,7 +136,7 @@ namespace pp
 
         void OnGUI()
         {
-            GUI.Label(new Rect(10, 10, 150, 25), "Ampulex Cheat v1.0");
+            GUI.Label(new Rect(10, 10, 150, 25), "(:");
             GUI.Label(new Rect(200, 10, 300, 25), cmgName);
             GUI.Label(new Rect(200, 35, 300, 25), state);
             GUI.Label(new Rect(200, 60, 300, 25), controller);
