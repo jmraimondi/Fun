@@ -47,7 +47,7 @@ namespace ROR
 
         void OnGUI()
         {
-            GUI.Label(new Rect(10, 10, 150, 25), "Ampulex Cheat v1.0");
+            GUI.Label(new Rect(10, 10, 150, 25), ":)");
             //GUI.Label(new Rect(200, 10, 150, 20), "local: " + local.userProfile.name + " ID: " + local.id.ToString());
             GUI.Label(new Rect(200, 10, 150, 20), "chests: " + chests.Count.ToString());
             //GUI.Label(new Rect(200, 50, 150, 20), "cam: " + cam.name.ToString());
